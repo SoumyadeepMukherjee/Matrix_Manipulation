@@ -1,4 +1,4 @@
-# Matrix Manipulation.
+# Matrix Manipulation
 
 * This Github repository deals with the various matrix manipulations in various different programming languages like **C** , **C++**, **Java**, **Python**.
 
