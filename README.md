@@ -11,4 +11,3 @@ _**New to Github?**_
 * [Contributing to Github](https://www.dataschool.io/how-to-contribute-on-github/)
 
 
-Do keep contributing & do give it a star if you really find it helpful!!
